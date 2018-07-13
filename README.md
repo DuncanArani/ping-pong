@@ -7,7 +7,8 @@ The application takes a number from the user and returns a range of numbers stop
 2.if a number is divisible by 5 is a "pong"
 3.if the number is divisible by both 5 and 3 then it becomes a "ping pong".
 ## Setup/Installation Requirements
-You can find the application on the app store or the apple store for download and Installation
+You can find the application on the app store or the apple store for download and Installation.
+Here is the link to the application: https://duncanarani.github.io/ping-pong/
 
 ## Known Bugs
 The application does not support big numbers like more than a million (1000000) it will slow dow your system's speed.
@@ -17,6 +18,8 @@ CSS
 Javascript
 ## Support and contact details
 By any chance you run into any issues or have questions, ideas or concerns.   I encourage you to contact me rather than making a contribution to the code.
+email:duncanarani@gmail.com
+phone:0718241334
 ### License
 
 License and copyright notice
