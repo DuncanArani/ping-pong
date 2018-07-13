@@ -1,8 +1,10 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# Duncan
+#### pingpong is updated version, 13/07/2018
+#### By **Duncan Arani**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+The application a number from the user and returns a range og numbers stoping at the number entered.
+1.if a number is divisible by 3 is a "ping"
+2.if a number is divisible by 5 is a "pong"
 ## Setup/Installation Requirements
 You can find the application on the app store or the apple store for download and Installation
 

@@ -1,8 +1,12 @@
 $(document).ready(function() {
   $("form#exp").submit(function(event) {
     event.preventDefault();
+    $("#divide").empty()
     var input = parseInt($("input#Number").val());
     var output = pingpong(input)
+//     function myFunction() {
+//     divide.reload();
+// }
   })
 })
 var pingpong = function(input) {
