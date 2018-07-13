@@ -1,18 +1,21 @@
-$(document).ready(function(){
-  $("form#exp").submit(function(event){
+$(document).ready(function() {
+  $("form#exp").submit(function(event) {
     event.preventDefault();
-    var divisible=parseIn($(input#Number).var());
-    var output=pingpong(divisible)
-  });
-});
-var pingpong=function(divisible){
-  for(x=1;x<=input;x++){
-    if(x%15===0){
-  var li=<li>+x+</li>
-}else{ (x%3===0){
-  var ul=<li>+x+</li>
-}else{ (x%5===0){
- return input
-}
-}
+    var input = parseInt($("input#Number").val());
+    var output = pingpong(input)
+  })
+})
+var pingpong = function(input) {
+  for (p = 1; p <= input; p++) {
+    if (p % 15 === 0) {
+      var li = "<li>" + "pingpong" + "</li>"
+    } else if (p % 3 === 0) {
+      var li = "<li>" + "ping" + "</li>"
+    } else if (p % 5 === 0) {
+      var li = "<li>" + "pong" + "</li>"
+    } else {
+      var li = "<li>" + p + "</li>"
+    }
+    $("#divide").append(li);
+  }
 }
