@@ -1,71 +1,83 @@
-.jumbotron1{
-  background-color:blue;
+.jumbotron1 {
+  background-color: blue;
   margin-left: 0%;
-  margin-right:0%;
-  margin-top:0%;
-  margin-bottom:50%%;
+  margin-right: 0%;
+  margin-top: 0%;
+  margin-bottom: 50%%;
   height: 50%
 }
-#column{
+
+#column {
   background-color: coral;
 }
-h1{
+
+h1 {
   text-align: center;
   margin-bottom: -10%;
   text-decoration-color: yellow;
-  text-align:center;
+  text-align: center;
   height:
-
-
 }
-#col{
-  background-color:white;
+
+#col {
+  background-color: white;
   text-align: left;
 }
-#rw{
+
+#rw {
   margin-left: auto;
   margin-top: 10%;
   margin-bottom: 0%;
   text-align: left;
 }
-#head{
-  color:yellow;
-  margin-bottom:50%px
+
+#head {
+  color: yellow;
+  margin-bottom: 50%px
 }
-h2{
-  color:white;
+
+h2 {
+  color: white;
   text-decoration: underline;
   margin-top: 5px
 }
-p{
+
+p {
   color: black;
 }
-#p1{
-  color:white;
+
+#p1 {
+  color: white;
 }
-.jumbotron{
-  background-color:green;
+
+.jumbotron {
+  background-color: green;
   margin-bottom: 20%;
   text-align: center;
 }
-.row1{
-  background-color:green;
+
+.row1 {
+  background-color: green;
   margin-top: 0px;
-  margin-bottom: 20px
-  height:-30px;
+  margin-bottom: 20px height:-30px;
   margin-right: -13px
 }
-#btn{
+
+#btn {
   background-color: blue;
   color: white;
 }
-#h{
-  color:white;
 
+#h {
+  color: white;
 }
-img{
+
+img {
   margin-top: 20%;
 }
-#devide{
-  colour:yellow;
+
+#divide {
+  colour: yellow;
+  text-decoration: none;
+  text-align: left;
 }
