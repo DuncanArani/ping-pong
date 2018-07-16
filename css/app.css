@@ -80,4 +80,5 @@ img {
   color: yellow;
   text-align: left;
   list-style: none;
+  list-style-position: inside;
   }
