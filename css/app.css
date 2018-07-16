@@ -79,4 +79,5 @@ img {
 #divide {
   color: yellow;
   text-align: left;
-}
+  list-style: none;
+  }
